@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brian  
 - 👀 I’m interested in all types of programming 
+- 🖥  Currently I'm working as a fulltime developer in Software
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on front end projects and react projects
 - 📫 How to reach me send me a message here, or reach me on my mail adress daryllbriancb@gmail.com
