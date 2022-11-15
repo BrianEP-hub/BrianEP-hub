@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on front end projects and react projects
 - 📫 How to reach me send me a message here, or reach me on my mail adress daryllbriancb@gmail.com
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianEP-hub)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 BrianEP-hub/BrianEP-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
