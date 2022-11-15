@@ -7,6 +7,7 @@
 - 🌱 I have been working as a software developer for 1 year now
 - 👀 I’m interested in all types of programming
 - 💞️ I’m looking to collaborate on frontend projects, angular and react projects
+- 👀 Current spark of interest is game development either in Unity or Unreal
 - 📫 How to reach me **daryllbriancb@gmail.com**
  
 
