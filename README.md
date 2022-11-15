@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on front end projects and react projects
 - 📫 How to reach me send me a message here, or reach me on my mail adress daryllbriancb@gmail.com
+- Languages and frameworks i use:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,cs&perline=3)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianEP-hub&show_icons=true&theme=dark)
 
