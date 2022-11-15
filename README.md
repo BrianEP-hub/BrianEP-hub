@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Brian  
 - 👀 I’m interested in all types of programming 
 - 🖥  Currently I'm working as a fulltime developer in Software
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on front end projects and react projects
-- 📫 How to reach me send me a message here, or reach me on my mail adress daryllbriancb@gmail.com
+- 🌱 I have been working as a software developer for 1 year now 
+- 💞️ I’m looking to collaborate on frontend projects, angular and react projects
+- 📫 I am open to recieving a message here, or reach me on my mail adress daryllbriancb@gmail.com
 - Languages and frameworks i use:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,cs&perline=3)](https://skillicons.dev)
