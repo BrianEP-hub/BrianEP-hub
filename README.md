@@ -3,7 +3,7 @@
 
 
 - 🖥 Currently I'm working as a fulltime developer in Software
-- 💬 Ask me about **angular, TypeScript, JavaScript**
+- 💬 Ask me about **Angular, TypeScript, JavaScript, React**
 - 🌱 I have been working as a software developer for 1 year now
 - 👀 I’m interested in all types of programming
 - 💞️ I’m looking to collaborate on frontend projects, angular and react projects
